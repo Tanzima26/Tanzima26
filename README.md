@@ -2,8 +2,11 @@
 #### Web Developer
 ![Web Developer](https://github.com/Tanzima26/Tanzima26/blob/main/github-banner.jpg?raw=true)
 
-Skills: HTML / CSS / JavaScript 
-Software Skills: Adobe Illustrator / Adobe Premiere Pro
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+
+- Skills: HTML / CSS / JavaScript 
+- Software Skills: Adobe Illustrator / Adobe Premiere Pro
 
 - 🔭 I’m currently working on several Projects. 
 - 🌱 I’m currently learning Manual and Automated Testing. 

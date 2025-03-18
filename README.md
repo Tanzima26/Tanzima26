@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tanzima Ahsan
-#### Web Developer
+###### Fresh Graduate in Computer Science & Engineering from Ahsanullah University of Science & Technology
 ![Web Developer](https://github.com/Tanzima26/Tanzima26/blob/main/github-banner.jpg?raw=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.

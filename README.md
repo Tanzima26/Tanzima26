@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Tanzima Ahsan
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Web Developer](https://github.com/Tanzima26/Tanzima26/blob/main/github-banner.jpg?raw=true)
 
 Skills: HTML / CSS / JavaScript 
 Software Skills: Adobe Illustrator / Adobe Premiere Pro

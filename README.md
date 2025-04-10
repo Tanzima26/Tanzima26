@@ -2,15 +2,12 @@
 ###### Fresh Graduate in Computer Science & Engineering from Ahsanullah University of Science & Technology
 ![Web Developer](https://github.com/Tanzima26/Tanzima26/blob/main/github_banner.jpg?raw=true)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-
-- Skills: HTML / CSS / JavaScript 
-- Software Skills: Adobe Illustrator / Adobe Premiere Pro
-
 - 🔭 I’m currently working on several Projects. 
 - 🌱 I’m currently learning Manual and Automated Testing. 
+- HTML / CSS / JavaScript 
+- Adobe Illustrator / Adobe Premiere Pro
 - 📫 How to reach me: tanzimaahsan26@gmail.com 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanzima26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanzima26/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanzima26)  

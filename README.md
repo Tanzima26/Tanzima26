@@ -2,10 +2,10 @@
 ###### Fresh Graduate in Computer Science & Engineering from Ahsanullah University of Science & Technology
 ![Web Developer](https://github.com/Tanzima26/Tanzima26/blob/main/github_banner.jpg?raw=true)
 
-- 🔭 I’m currently working on several Projects. 
-- 🌱 I’m currently learning Manual and Automated Testing. 
 - HTML / CSS / JavaScript 
 - Adobe Illustrator / Adobe Premiere Pro
+- 🔭 I’m currently working on several Projects. 
+- 🌱 I’m currently learning Manual and Automated Testing. 
 - 📫 How to reach me: tanzimaahsan26@gmail.com 
 
 
